@@ -20,14 +20,14 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Saad Pasta",
-  title: "Hi all, I'm Saad",
-  subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
-  ),
-  resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
-  displayGreeting: true // Set false to hide this section, defaults to true
+  title: "Hi, I'm Soham",
+  logo_name: "Soham Mahata",
+  nickname: "",
+  subTitle:
+    "MBA student with a B.Tech in Computer Science (AI), passionate about Business Analytics, technology, and problem-solving. Interested in turning data into insights and using technology to solve real-world business challenges.",
+  resumeLink: "https://drive.google.com/file/d/16v_mEl3czX2AK39lAf9tXngzPyE69f5z/view?usp=sharing",
+  portfolio_repository: "https://github.com/Lostzoro-15/Lostzoro-15.github.io",
+  githubProfile: "https://github.com/Lostzoro-15"
 };
 
 // Social Media Links
@@ -35,11 +35,8 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/saadpasta",
   linkedin: "https://www.linkedin.com/in/saadpasta/",
-  gmail: "saadpasta70@gmail.com",
-  gitlab: "https://gitlab.com/saadpasta",
-  facebook: "https://www.facebook.com/saad.pasta7",
-  medium: "https://medium.com/@saadpasta",
-  stackoverflow: "https://stackoverflow.com/users/10422806/saad-pasta",
+  gmail: "sohammahata1515@gmail.com",
+  
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
   display: true // Set true to display this section, defaults to false
