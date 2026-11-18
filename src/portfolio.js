@@ -28,7 +28,7 @@ const greeting = {
     "A little about me: I'm an MBA student at LPU with a B.Tech in CSE (AI & ML). I like turning data into decisions, from building ML models and an IoT agricultural rover to launching an anime merchandise brand that made ₹30K in sales in a week. I'm focused on operations and project management."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/16v_mEl3czX2AK39lAf9tXngzPyE69f5z/view?usp=sharing",
+    "https://drive.google.com/uc?export=download&id=16v_mEl3czX2AK39lAf9tXngzPyE69f5z",
   portfolio_repository: "https://github.com/Lostzoro-15/Lostzoro-15.github.io",
   githubProfile: "https://github.com/Lostzoro-15",
   displayGreeting: true
